@@ -1,0 +1,3 @@
+C:/Users/Kaue/Documents/FT_Bakery/cmake-build-debug/CMakeFiles/FT_Bakery.dir
+C:/Users/Kaue/Documents/FT_Bakery/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kaue/Documents/FT_Bakery/cmake-build-debug/CMakeFiles/rebuild_cache.dir
